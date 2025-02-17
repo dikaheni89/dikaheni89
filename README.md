@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimas Handika Sutajaba</h1>
+<h1 align="center">Hi 👋, I'm Handika Sutajaba</h1>
 <h3 align="center">A passionate FullStack Developer, specializing in React.js and Next.js, from Indonesia.</h3>
 
 - 🔭 I am building something new for the hiring team using AI.
